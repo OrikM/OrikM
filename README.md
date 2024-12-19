@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate developer with an interest in various areas of software development. Here's a bit about me:
 
 ## 🌱 Learning and Growth
-- Currently learning **[TDD, Python, Machine Learning]**.
-- Exploring **[Artificial Intelligence, Machine learning]** for new opportunities.
+- Currently learning **TDD, Python, Machine Learning**.
+- Exploring **Artificial Intelligence, Machine learning** for new opportunities.
 
 ## 💼 Professional Experience
 - **Full Stack JavaScript Instructor** at **SoftTech Academy** (Jan 2023  - Sep 2024)
